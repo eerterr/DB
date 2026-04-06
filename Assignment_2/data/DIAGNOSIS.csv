@@ -1,0 +1,1001 @@
+ID,Title,Description,Appointment_ID
+1,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,1
+2,Pneumonia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,2
+3,Kidney Stone,"Diagnosis established after review of medical history, physical findings, and test results.",3
+4,Otitis Media,Diagnosis recorded after consultation and appropriate diagnostic procedures.,4
+5,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,5
+6,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",6
+7,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,7
+8,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",8
+9,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,9
+10,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",10
+11,Arrhythmia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,11
+12,Arrhythmia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,12
+13,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,13
+14,Gastritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,14
+15,Anemia,"Diagnosis established after review of medical history, physical findings, and test results.",15
+16,Depression,Diagnosis recorded after consultation and appropriate diagnostic procedures.,16
+17,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",17
+18,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",18
+19,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,19
+20,Back Pain,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,20
+21,Back Pain,Condition identified during appointment with recommendation for follow-up and treatment plan.,21
+22,Gastritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,22
+23,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,23
+24,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,24
+25,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,25
+26,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,26
+27,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,27
+28,Arthritis,"Diagnosis established after review of medical history, physical findings, and test results.",28
+29,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,29
+30,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,30
+31,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",31
+32,Hypertension,Condition identified during appointment with recommendation for follow-up and treatment plan.,32
+33,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,33
+34,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",34
+35,Anemia,"Diagnosis established after review of medical history, physical findings, and test results.",35
+36,Conjunctivitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,36
+37,Anemia,"Diagnosis established after review of medical history, physical findings, and test results.",37
+38,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",38
+39,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,39
+40,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,40
+41,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,41
+42,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,42
+43,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,43
+44,Anemia,"Diagnosis established after review of medical history, physical findings, and test results.",44
+45,Type 2 Diabetes,Condition identified during appointment with recommendation for follow-up and treatment plan.,45
+46,Otitis Media,Diagnosis recorded after consultation and appropriate diagnostic procedures.,46
+47,Migraine,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,47
+48,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,48
+49,Kidney Stone,"Diagnosis established after review of medical history, physical findings, and test results.",49
+50,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,50
+51,Urinary Tract Infection,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,51
+52,Pneumonia,Clinical assessment supports this diagnosis; additional monitoring may be required.,52
+53,Migraine,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,53
+54,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,54
+55,Arthritis,"Diagnosis established after review of medical history, physical findings, and test results.",55
+56,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,56
+57,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,57
+58,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",58
+59,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,59
+60,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,60
+61,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,61
+62,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",62
+63,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",63
+64,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",64
+65,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,65
+66,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",66
+67,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,67
+68,Otitis Media,Condition identified during appointment with recommendation for follow-up and treatment plan.,68
+69,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,69
+70,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",70
+71,Otitis Media,Diagnosis recorded after consultation and appropriate diagnostic procedures.,71
+72,Kidney Stone,Condition identified during appointment with recommendation for follow-up and treatment plan.,72
+73,Kidney Stone,"Diagnosis established after review of medical history, physical findings, and test results.",73
+74,Arrhythmia,Condition identified during appointment with recommendation for follow-up and treatment plan.,74
+75,Common Cold,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,75
+76,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,76
+77,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,77
+78,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,78
+79,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,79
+80,Type 2 Diabetes,"Diagnosis established after review of medical history, physical findings, and test results.",80
+81,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,81
+82,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",82
+83,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,83
+84,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,84
+85,Fracture,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,85
+86,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,86
+87,Type 2 Diabetes,Clinical assessment supports this diagnosis; additional monitoring may be required.,87
+88,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",88
+89,Anxiety Disorder,"Diagnosis established after review of medical history, physical findings, and test results.",89
+90,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,90
+91,Anemia,"Diagnosis established after review of medical history, physical findings, and test results.",91
+92,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,92
+93,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",93
+94,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,94
+95,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,95
+96,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,96
+97,Asthma,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,97
+98,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",98
+99,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",99
+100,Dermatitis,"Diagnosis established after review of medical history, physical findings, and test results.",100
+101,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,101
+102,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,102
+103,Common Cold,"Diagnosis established after review of medical history, physical findings, and test results.",103
+104,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,104
+105,Dermatitis,"Diagnosis established after review of medical history, physical findings, and test results.",105
+106,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",106
+107,Conjunctivitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,107
+108,Kidney Stone,Clinical assessment supports this diagnosis; additional monitoring may be required.,108
+109,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,109
+110,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,110
+111,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,111
+112,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",112
+113,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",113
+114,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,114
+115,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,115
+116,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,116
+117,Dermatitis,"Diagnosis established after review of medical history, physical findings, and test results.",117
+118,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,118
+119,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,119
+120,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,120
+121,Dermatitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,121
+122,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",122
+123,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,123
+124,Otitis Media,Diagnosis recorded after consultation and appropriate diagnostic procedures.,124
+125,Fracture,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,125
+126,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,126
+127,Arrhythmia,Clinical assessment supports this diagnosis; additional monitoring may be required.,127
+128,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,128
+129,Dermatitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,129
+130,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,130
+131,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",131
+132,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",132
+133,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,133
+134,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,134
+135,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,135
+136,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,136
+137,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,137
+138,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,138
+139,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,139
+140,Kidney Stone,Condition identified during appointment with recommendation for follow-up and treatment plan.,140
+141,Kidney Stone,Clinical assessment supports this diagnosis; additional monitoring may be required.,141
+142,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",142
+143,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,143
+144,Asthma,Diagnosis recorded after consultation and appropriate diagnostic procedures.,144
+145,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,145
+146,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",146
+147,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,147
+148,Arthritis,"Diagnosis established after review of medical history, physical findings, and test results.",148
+149,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,149
+150,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,150
+151,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,151
+152,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,152
+153,Anxiety Disorder,"Diagnosis established after review of medical history, physical findings, and test results.",153
+154,Pneumonia,Condition identified during appointment with recommendation for follow-up and treatment plan.,154
+155,Depression,Diagnosis recorded after consultation and appropriate diagnostic procedures.,155
+156,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,156
+157,Fracture,Diagnosis recorded after consultation and appropriate diagnostic procedures.,157
+158,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,158
+159,Back Pain,"Diagnosis established after review of medical history, physical findings, and test results.",159
+160,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,160
+161,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,161
+162,Conjunctivitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,162
+163,Arrhythmia,Clinical assessment supports this diagnosis; additional monitoring may be required.,163
+164,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,164
+165,Asthma,Condition identified during appointment with recommendation for follow-up and treatment plan.,165
+166,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,166
+167,Gastritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,167
+168,Back Pain,Condition identified during appointment with recommendation for follow-up and treatment plan.,168
+169,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",169
+170,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,170
+171,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,171
+172,Back Pain,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,172
+173,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",173
+174,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,174
+175,Pneumonia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,175
+176,Common Cold,"Diagnosis established after review of medical history, physical findings, and test results.",176
+177,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,177
+178,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,178
+179,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,179
+180,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,180
+181,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,181
+182,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",182
+183,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,183
+184,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",184
+185,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,185
+186,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,186
+187,Pneumonia,Condition identified during appointment with recommendation for follow-up and treatment plan.,187
+188,Type 2 Diabetes,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,188
+189,Pneumonia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,189
+190,Kidney Stone,Clinical assessment supports this diagnosis; additional monitoring may be required.,190
+191,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",191
+192,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,192
+193,Fracture,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,193
+194,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,194
+195,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,195
+196,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,196
+197,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",197
+198,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,198
+199,Hypertension,Condition identified during appointment with recommendation for follow-up and treatment plan.,199
+200,Arthritis,"Diagnosis established after review of medical history, physical findings, and test results.",200
+201,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,201
+202,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",202
+203,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",203
+204,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,204
+205,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,205
+206,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,206
+207,Type 2 Diabetes,Diagnosis recorded after consultation and appropriate diagnostic procedures.,207
+208,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,208
+209,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,209
+210,Fracture,Diagnosis recorded after consultation and appropriate diagnostic procedures.,210
+211,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,211
+212,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,212
+213,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",213
+214,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,214
+215,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,215
+216,Back Pain,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,216
+217,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,217
+218,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,218
+219,Type 2 Diabetes,Diagnosis recorded after consultation and appropriate diagnostic procedures.,219
+220,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,220
+221,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,221
+222,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,222
+223,Hypertension,Condition identified during appointment with recommendation for follow-up and treatment plan.,223
+224,Back Pain,Condition identified during appointment with recommendation for follow-up and treatment plan.,224
+225,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,225
+226,Type 2 Diabetes,"Diagnosis established after review of medical history, physical findings, and test results.",226
+227,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",227
+228,Common Cold,"Diagnosis established after review of medical history, physical findings, and test results.",228
+229,Allergic Rhinitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,229
+230,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,230
+231,Type 2 Diabetes,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,231
+232,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,232
+233,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,233
+234,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",234
+235,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,235
+236,Dermatitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,236
+237,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,237
+238,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,238
+239,Asthma,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,239
+240,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,240
+241,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,241
+242,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,242
+243,Kidney Stone,"Diagnosis established after review of medical history, physical findings, and test results.",243
+244,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,244
+245,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",245
+246,Arrhythmia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,246
+247,Pneumonia,Condition identified during appointment with recommendation for follow-up and treatment plan.,247
+248,Asthma,Condition identified during appointment with recommendation for follow-up and treatment plan.,248
+249,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,249
+250,Arrhythmia,Condition identified during appointment with recommendation for follow-up and treatment plan.,250
+251,Conjunctivitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,251
+252,Hypertension,Condition identified during appointment with recommendation for follow-up and treatment plan.,252
+253,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,253
+254,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,254
+255,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,255
+256,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",256
+257,Urinary Tract Infection,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,257
+258,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,258
+259,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,259
+260,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,260
+261,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,261
+262,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,262
+263,Dermatitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,263
+264,Allergic Rhinitis,"Diagnosis established after review of medical history, physical findings, and test results.",264
+265,Asthma,Diagnosis recorded after consultation and appropriate diagnostic procedures.,265
+266,Kidney Stone,Condition identified during appointment with recommendation for follow-up and treatment plan.,266
+267,Common Cold,Condition identified during appointment with recommendation for follow-up and treatment plan.,267
+268,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,268
+269,Pneumonia,Condition identified during appointment with recommendation for follow-up and treatment plan.,269
+270,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,270
+271,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,271
+272,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,272
+273,Hypertension,Condition identified during appointment with recommendation for follow-up and treatment plan.,273
+274,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,274
+275,Common Cold,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,275
+276,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,276
+277,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,277
+278,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,278
+279,Dermatitis,"Diagnosis established after review of medical history, physical findings, and test results.",279
+280,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,280
+281,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,281
+282,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,282
+283,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,283
+284,Gastritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,284
+285,Kidney Stone,"Diagnosis established after review of medical history, physical findings, and test results.",285
+286,Hypertension,Condition identified during appointment with recommendation for follow-up and treatment plan.,286
+287,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,287
+288,Type 2 Diabetes,Diagnosis recorded after consultation and appropriate diagnostic procedures.,288
+289,Anemia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,289
+290,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,290
+291,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",291
+292,Asthma,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,292
+293,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,293
+294,Pneumonia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,294
+295,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,295
+296,Asthma,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,296
+297,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,297
+298,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,298
+299,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,299
+300,Anemia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,300
+301,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,301
+302,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,302
+303,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,303
+304,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",304
+305,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,305
+306,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,306
+307,Gastritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,307
+308,Arthritis,"Diagnosis established after review of medical history, physical findings, and test results.",308
+309,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",309
+310,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,310
+311,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",311
+312,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",312
+313,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,313
+314,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,314
+315,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,315
+316,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,316
+317,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,317
+318,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,318
+319,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,319
+320,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,320
+321,Arthritis,"Diagnosis established after review of medical history, physical findings, and test results.",321
+322,Migraine,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,322
+323,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,323
+324,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,324
+325,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",325
+326,Common Cold,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,326
+327,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",327
+328,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,328
+329,Type 2 Diabetes,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,329
+330,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,330
+331,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,331
+332,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,332
+333,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,333
+334,Asthma,Clinical assessment supports this diagnosis; additional monitoring may be required.,334
+335,Back Pain,"Diagnosis established after review of medical history, physical findings, and test results.",335
+336,Type 2 Diabetes,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,336
+337,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,337
+338,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,338
+339,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",339
+340,Fracture,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,340
+341,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",341
+342,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,342
+343,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,343
+344,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,344
+345,Dermatitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,345
+346,Gastritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,346
+347,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,347
+348,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",348
+349,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,349
+350,Common Cold,Condition identified during appointment with recommendation for follow-up and treatment plan.,350
+351,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,351
+352,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,352
+353,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",353
+354,Kidney Stone,Condition identified during appointment with recommendation for follow-up and treatment plan.,354
+355,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,355
+356,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,356
+357,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,357
+358,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",358
+359,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,359
+360,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,360
+361,Dermatitis,"Diagnosis established after review of medical history, physical findings, and test results.",361
+362,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",362
+363,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,363
+364,Conjunctivitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,364
+365,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",365
+366,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,366
+367,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,367
+368,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",368
+369,Depression,Diagnosis recorded after consultation and appropriate diagnostic procedures.,369
+370,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,370
+371,Urinary Tract Infection,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,371
+372,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",372
+373,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,373
+374,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",374
+375,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,375
+376,Dermatitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,376
+377,Fracture,Diagnosis recorded after consultation and appropriate diagnostic procedures.,377
+378,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,378
+379,Anemia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,379
+380,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,380
+381,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,381
+382,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",382
+383,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,383
+384,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,384
+385,Asthma,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,385
+386,Back Pain,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,386
+387,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,387
+388,Fracture,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,388
+389,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,389
+390,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",390
+391,Pneumonia,Clinical assessment supports this diagnosis; additional monitoring may be required.,391
+392,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,392
+393,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,393
+394,Dermatitis,"Diagnosis established after review of medical history, physical findings, and test results.",394
+395,Type 2 Diabetes,Diagnosis recorded after consultation and appropriate diagnostic procedures.,395
+396,Asthma,Clinical assessment supports this diagnosis; additional monitoring may be required.,396
+397,Migraine,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,397
+398,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,398
+399,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,399
+400,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,400
+401,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,401
+402,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,402
+403,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,403
+404,Kidney Stone,"Diagnosis established after review of medical history, physical findings, and test results.",404
+405,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,405
+406,Gastritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,406
+407,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,407
+408,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,408
+409,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,409
+410,Common Cold,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,410
+411,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,411
+412,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,412
+413,Conjunctivitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,413
+414,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,414
+415,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,415
+416,Pneumonia,Condition identified during appointment with recommendation for follow-up and treatment plan.,416
+417,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,417
+418,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,418
+419,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",419
+420,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,420
+421,Fracture,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,421
+422,Allergic Rhinitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,422
+423,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,423
+424,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,424
+425,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,425
+426,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,426
+427,Type 2 Diabetes,Clinical assessment supports this diagnosis; additional monitoring may be required.,427
+428,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,428
+429,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,429
+430,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,430
+431,Hypertension,Condition identified during appointment with recommendation for follow-up and treatment plan.,431
+432,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",432
+433,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,433
+434,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",434
+435,Pneumonia,Condition identified during appointment with recommendation for follow-up and treatment plan.,435
+436,Common Cold,Condition identified during appointment with recommendation for follow-up and treatment plan.,436
+437,Otitis Media,Condition identified during appointment with recommendation for follow-up and treatment plan.,437
+438,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,438
+439,Dermatitis,"Diagnosis established after review of medical history, physical findings, and test results.",439
+440,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,440
+441,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",441
+442,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,442
+443,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,443
+444,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,444
+445,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,445
+446,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,446
+447,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,447
+448,Dermatitis,"Diagnosis established after review of medical history, physical findings, and test results.",448
+449,Asthma,Condition identified during appointment with recommendation for follow-up and treatment plan.,449
+450,Gastritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,450
+451,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",451
+452,Kidney Stone,Condition identified during appointment with recommendation for follow-up and treatment plan.,452
+453,Gastritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,453
+454,Kidney Stone,Condition identified during appointment with recommendation for follow-up and treatment plan.,454
+455,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,455
+456,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,456
+457,Pneumonia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,457
+458,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,458
+459,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,459
+460,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,460
+461,Type 2 Diabetes,Diagnosis recorded after consultation and appropriate diagnostic procedures.,461
+462,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,462
+463,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,463
+464,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,464
+465,Gastritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,465
+466,Kidney Stone,"Diagnosis established after review of medical history, physical findings, and test results.",466
+467,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,467
+468,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,468
+469,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",469
+470,Pneumonia,Condition identified during appointment with recommendation for follow-up and treatment plan.,470
+471,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,471
+472,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,472
+473,Arrhythmia,Clinical assessment supports this diagnosis; additional monitoring may be required.,473
+474,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,474
+475,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,475
+476,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",476
+477,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,477
+478,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,478
+479,Conjunctivitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,479
+480,Back Pain,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,480
+481,Type 2 Diabetes,Diagnosis recorded after consultation and appropriate diagnostic procedures.,481
+482,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",482
+483,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,483
+484,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,484
+485,Allergic Rhinitis,"Diagnosis established after review of medical history, physical findings, and test results.",485
+486,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",486
+487,Fracture,Diagnosis recorded after consultation and appropriate diagnostic procedures.,487
+488,Allergic Rhinitis,"Diagnosis established after review of medical history, physical findings, and test results.",488
+489,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",489
+490,Kidney Stone,Clinical assessment supports this diagnosis; additional monitoring may be required.,490
+491,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,491
+492,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",492
+493,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",493
+494,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",494
+495,Asthma,Clinical assessment supports this diagnosis; additional monitoring may be required.,495
+496,Arrhythmia,Clinical assessment supports this diagnosis; additional monitoring may be required.,496
+497,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,497
+498,Asthma,Condition identified during appointment with recommendation for follow-up and treatment plan.,498
+499,Asthma,Clinical assessment supports this diagnosis; additional monitoring may be required.,499
+500,Allergic Rhinitis,"Diagnosis established after review of medical history, physical findings, and test results.",500
+501,Arthritis,"Diagnosis established after review of medical history, physical findings, and test results.",501
+502,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,502
+503,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",503
+504,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",504
+505,Back Pain,"Diagnosis established after review of medical history, physical findings, and test results.",505
+506,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,506
+507,Type 2 Diabetes,Condition identified during appointment with recommendation for follow-up and treatment plan.,507
+508,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,508
+509,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,509
+510,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",510
+511,Asthma,Diagnosis recorded after consultation and appropriate diagnostic procedures.,511
+512,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,512
+513,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",513
+514,Gastritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,514
+515,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,515
+516,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,516
+517,Fracture,Diagnosis recorded after consultation and appropriate diagnostic procedures.,517
+518,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,518
+519,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,519
+520,Common Cold,Condition identified during appointment with recommendation for follow-up and treatment plan.,520
+521,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,521
+522,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,522
+523,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,523
+524,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,524
+525,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,525
+526,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,526
+527,Pneumonia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,527
+528,Back Pain,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,528
+529,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,529
+530,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,530
+531,Back Pain,"Diagnosis established after review of medical history, physical findings, and test results.",531
+532,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",532
+533,Anxiety Disorder,"Diagnosis established after review of medical history, physical findings, and test results.",533
+534,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,534
+535,Arrhythmia,Clinical assessment supports this diagnosis; additional monitoring may be required.,535
+536,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",536
+537,Pneumonia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,537
+538,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,538
+539,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,539
+540,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,540
+541,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,541
+542,Arrhythmia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,542
+543,Pneumonia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,543
+544,Dermatitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,544
+545,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,545
+546,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,546
+547,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,547
+548,Asthma,Diagnosis recorded after consultation and appropriate diagnostic procedures.,548
+549,Otitis Media,Condition identified during appointment with recommendation for follow-up and treatment plan.,549
+550,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,550
+551,Common Cold,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,551
+552,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,552
+553,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",553
+554,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,554
+555,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,555
+556,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,556
+557,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",557
+558,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,558
+559,Anxiety Disorder,"Diagnosis established after review of medical history, physical findings, and test results.",559
+560,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,560
+561,Hypertension,Clinical assessment supports this diagnosis; additional monitoring may be required.,561
+562,Asthma,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,562
+563,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",563
+564,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",564
+565,Otitis Media,Condition identified during appointment with recommendation for follow-up and treatment plan.,565
+566,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,566
+567,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,567
+568,Gastritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,568
+569,Arrhythmia,Condition identified during appointment with recommendation for follow-up and treatment plan.,569
+570,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,570
+571,Allergic Rhinitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,571
+572,Pneumonia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,572
+573,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",573
+574,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,574
+575,Allergic Rhinitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,575
+576,Conjunctivitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,576
+577,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,577
+578,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,578
+579,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,579
+580,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,580
+581,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,581
+582,Urinary Tract Infection,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,582
+583,Gastritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,583
+584,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",584
+585,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,585
+586,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",586
+587,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",587
+588,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,588
+589,Anemia,Clinical assessment supports this diagnosis; additional monitoring may be required.,589
+590,Type 2 Diabetes,"Diagnosis established after review of medical history, physical findings, and test results.",590
+591,Type 2 Diabetes,"Diagnosis established after review of medical history, physical findings, and test results.",591
+592,Conjunctivitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,592
+593,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,593
+594,Type 2 Diabetes,Condition identified during appointment with recommendation for follow-up and treatment plan.,594
+595,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,595
+596,Conjunctivitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,596
+597,Back Pain,Condition identified during appointment with recommendation for follow-up and treatment plan.,597
+598,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,598
+599,Common Cold,"Diagnosis established after review of medical history, physical findings, and test results.",599
+600,Arrhythmia,Clinical assessment supports this diagnosis; additional monitoring may be required.,600
+601,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",601
+602,Pneumonia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,602
+603,Otitis Media,Condition identified during appointment with recommendation for follow-up and treatment plan.,603
+604,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,604
+605,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",605
+606,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,606
+607,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,607
+608,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,608
+609,Otitis Media,Diagnosis recorded after consultation and appropriate diagnostic procedures.,609
+610,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",610
+611,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",611
+612,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,612
+613,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,613
+614,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,614
+615,Conjunctivitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,615
+616,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,616
+617,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,617
+618,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,618
+619,Pneumonia,Condition identified during appointment with recommendation for follow-up and treatment plan.,619
+620,Kidney Stone,Condition identified during appointment with recommendation for follow-up and treatment plan.,620
+621,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,621
+622,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,622
+623,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,623
+624,Anemia,Clinical assessment supports this diagnosis; additional monitoring may be required.,624
+625,Hypertension,Condition identified during appointment with recommendation for follow-up and treatment plan.,625
+626,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,626
+627,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,627
+628,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,628
+629,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",629
+630,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",630
+631,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,631
+632,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",632
+633,Pneumonia,Clinical assessment supports this diagnosis; additional monitoring may be required.,633
+634,Type 2 Diabetes,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,634
+635,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,635
+636,Kidney Stone,"Diagnosis established after review of medical history, physical findings, and test results.",636
+637,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,637
+638,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,638
+639,Fracture,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,639
+640,Type 2 Diabetes,Clinical assessment supports this diagnosis; additional monitoring may be required.,640
+641,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,641
+642,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,642
+643,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,643
+644,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,644
+645,Allergic Rhinitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,645
+646,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,646
+647,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,647
+648,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,648
+649,Type 2 Diabetes,"Diagnosis established after review of medical history, physical findings, and test results.",649
+650,Anemia,Clinical assessment supports this diagnosis; additional monitoring may be required.,650
+651,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,651
+652,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,652
+653,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,653
+654,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,654
+655,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,655
+656,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,656
+657,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,657
+658,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,658
+659,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,659
+660,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,660
+661,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,661
+662,Type 2 Diabetes,"Diagnosis established after review of medical history, physical findings, and test results.",662
+663,Asthma,Condition identified during appointment with recommendation for follow-up and treatment plan.,663
+664,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,664
+665,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,665
+666,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,666
+667,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,667
+668,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",668
+669,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",669
+670,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,670
+671,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,671
+672,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,672
+673,Back Pain,Condition identified during appointment with recommendation for follow-up and treatment plan.,673
+674,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,674
+675,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,675
+676,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",676
+677,Anxiety Disorder,"Diagnosis established after review of medical history, physical findings, and test results.",677
+678,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,678
+679,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,679
+680,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",680
+681,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,681
+682,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",682
+683,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,683
+684,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,684
+685,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,685
+686,Back Pain,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,686
+687,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,687
+688,Common Cold,"Diagnosis established after review of medical history, physical findings, and test results.",688
+689,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,689
+690,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,690
+691,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,691
+692,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,692
+693,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,693
+694,Kidney Stone,Clinical assessment supports this diagnosis; additional monitoring may be required.,694
+695,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,695
+696,Urinary Tract Infection,"Diagnosis established after review of medical history, physical findings, and test results.",696
+697,Conjunctivitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,697
+698,Type 2 Diabetes,"Diagnosis established after review of medical history, physical findings, and test results.",698
+699,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,699
+700,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,700
+701,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,701
+702,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,702
+703,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,703
+704,Pneumonia,Condition identified during appointment with recommendation for follow-up and treatment plan.,704
+705,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,705
+706,Gastritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,706
+707,Hypertension,Diagnosis recorded after consultation and appropriate diagnostic procedures.,707
+708,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,708
+709,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,709
+710,Anemia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,710
+711,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,711
+712,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,712
+713,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,713
+714,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",714
+715,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,715
+716,Anemia,"Diagnosis established after review of medical history, physical findings, and test results.",716
+717,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",717
+718,Common Cold,Condition identified during appointment with recommendation for follow-up and treatment plan.,718
+719,Otitis Media,Diagnosis recorded after consultation and appropriate diagnostic procedures.,719
+720,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,720
+721,Otitis Media,Condition identified during appointment with recommendation for follow-up and treatment plan.,721
+722,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,722
+723,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",723
+724,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",724
+725,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",725
+726,Type 2 Diabetes,Diagnosis recorded after consultation and appropriate diagnostic procedures.,726
+727,Arrhythmia,Clinical assessment supports this diagnosis; additional monitoring may be required.,727
+728,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,728
+729,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,729
+730,Arrhythmia,Condition identified during appointment with recommendation for follow-up and treatment plan.,730
+731,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,731
+732,Type 2 Diabetes,Condition identified during appointment with recommendation for follow-up and treatment plan.,732
+733,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,733
+734,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,734
+735,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",735
+736,Pneumonia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,736
+737,Otitis Media,Diagnosis recorded after consultation and appropriate diagnostic procedures.,737
+738,Fracture,Diagnosis recorded after consultation and appropriate diagnostic procedures.,738
+739,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,739
+740,Depression,Diagnosis recorded after consultation and appropriate diagnostic procedures.,740
+741,Anemia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,741
+742,Kidney Stone,Clinical assessment supports this diagnosis; additional monitoring may be required.,742
+743,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",743
+744,Back Pain,"Diagnosis established after review of medical history, physical findings, and test results.",744
+745,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,745
+746,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,746
+747,Depression,Diagnosis recorded after consultation and appropriate diagnostic procedures.,747
+748,Anemia,"Diagnosis established after review of medical history, physical findings, and test results.",748
+749,Arrhythmia,Clinical assessment supports this diagnosis; additional monitoring may be required.,749
+750,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,750
+751,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",751
+752,Type 2 Diabetes,Clinical assessment supports this diagnosis; additional monitoring may be required.,752
+753,Pneumonia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,753
+754,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,754
+755,Asthma,Diagnosis recorded after consultation and appropriate diagnostic procedures.,755
+756,Pneumonia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,756
+757,Dermatitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,757
+758,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,758
+759,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,759
+760,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",760
+761,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",761
+762,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,762
+763,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,763
+764,Gastritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,764
+765,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,765
+766,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,766
+767,Anxiety Disorder,"Diagnosis established after review of medical history, physical findings, and test results.",767
+768,Back Pain,"Diagnosis established after review of medical history, physical findings, and test results.",768
+769,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",769
+770,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,770
+771,Type 2 Diabetes,Clinical assessment supports this diagnosis; additional monitoring may be required.,771
+772,Arthritis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,772
+773,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,773
+774,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",774
+775,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,775
+776,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,776
+777,Migraine,Clinical assessment supports this diagnosis; additional monitoring may be required.,777
+778,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,778
+779,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,779
+780,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,780
+781,Anemia,Clinical assessment supports this diagnosis; additional monitoring may be required.,781
+782,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,782
+783,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,783
+784,Common Cold,Clinical assessment supports this diagnosis; additional monitoring may be required.,784
+785,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,785
+786,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,786
+787,Pneumonia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,787
+788,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,788
+789,Conjunctivitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,789
+790,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,790
+791,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",791
+792,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,792
+793,Common Cold,Condition identified during appointment with recommendation for follow-up and treatment plan.,793
+794,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,794
+795,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,795
+796,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,796
+797,Conjunctivitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,797
+798,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,798
+799,Otitis Media,Diagnosis recorded after consultation and appropriate diagnostic procedures.,799
+800,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",800
+801,Depression,Diagnosis recorded after consultation and appropriate diagnostic procedures.,801
+802,Pneumonia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,802
+803,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,803
+804,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,804
+805,Anxiety Disorder,"Diagnosis established after review of medical history, physical findings, and test results.",805
+806,Otitis Media,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,806
+807,Fracture,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,807
+808,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,808
+809,Common Cold,"Diagnosis established after review of medical history, physical findings, and test results.",809
+810,Back Pain,Diagnosis recorded after consultation and appropriate diagnostic procedures.,810
+811,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,811
+812,Asthma,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,812
+813,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,813
+814,Urinary Tract Infection,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,814
+815,Conjunctivitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,815
+816,Type 2 Diabetes,"Diagnosis established after review of medical history, physical findings, and test results.",816
+817,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,817
+818,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,818
+819,Type 2 Diabetes,Diagnosis recorded after consultation and appropriate diagnostic procedures.,819
+820,Fracture,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,820
+821,Allergic Rhinitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,821
+822,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,822
+823,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,823
+824,Type 2 Diabetes,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,824
+825,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,825
+826,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",826
+827,Allergic Rhinitis,"Diagnosis established after review of medical history, physical findings, and test results.",827
+828,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,828
+829,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,829
+830,Conjunctivitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,830
+831,Back Pain,"Diagnosis established after review of medical history, physical findings, and test results.",831
+832,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,832
+833,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,833
+834,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,834
+835,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",835
+836,Urinary Tract Infection,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,836
+837,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,837
+838,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,838
+839,Otitis Media,Diagnosis recorded after consultation and appropriate diagnostic procedures.,839
+840,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,840
+841,Back Pain,"Diagnosis established after review of medical history, physical findings, and test results.",841
+842,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,842
+843,Arrhythmia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,843
+844,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,844
+845,Back Pain,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,845
+846,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",846
+847,Type 2 Diabetes,Condition identified during appointment with recommendation for follow-up and treatment plan.,847
+848,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,848
+849,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,849
+850,Arrhythmia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,850
+851,Dermatitis,"Diagnosis established after review of medical history, physical findings, and test results.",851
+852,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,852
+853,Allergic Rhinitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,853
+854,Arthritis,"Diagnosis established after review of medical history, physical findings, and test results.",854
+855,Otitis Media,Condition identified during appointment with recommendation for follow-up and treatment plan.,855
+856,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,856
+857,Migraine,Condition identified during appointment with recommendation for follow-up and treatment plan.,857
+858,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,858
+859,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",859
+860,Type 2 Diabetes,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,860
+861,Gastritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,861
+862,Gastritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,862
+863,Migraine,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,863
+864,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",864
+865,Urinary Tract Infection,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,865
+866,Pneumonia,Clinical assessment supports this diagnosis; additional monitoring may be required.,866
+867,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,867
+868,Type 2 Diabetes,Condition identified during appointment with recommendation for follow-up and treatment plan.,868
+869,Depression,Diagnosis recorded after consultation and appropriate diagnostic procedures.,869
+870,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,870
+871,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,871
+872,Arrhythmia,Clinical assessment supports this diagnosis; additional monitoring may be required.,872
+873,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,873
+874,Conjunctivitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,874
+875,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",875
+876,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,876
+877,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,877
+878,Otitis Media,Condition identified during appointment with recommendation for follow-up and treatment plan.,878
+879,Anemia,Clinical assessment supports this diagnosis; additional monitoring may be required.,879
+880,Allergic Rhinitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,880
+881,Gastritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,881
+882,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,882
+883,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,883
+884,Hypertension,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,884
+885,Anxiety Disorder,"Diagnosis established after review of medical history, physical findings, and test results.",885
+886,Fracture,Diagnosis recorded after consultation and appropriate diagnostic procedures.,886
+887,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,887
+888,Pneumonia,Clinical assessment supports this diagnosis; additional monitoring may be required.,888
+889,Otitis Media,"Diagnosis established after review of medical history, physical findings, and test results.",889
+890,Type 2 Diabetes,Condition identified during appointment with recommendation for follow-up and treatment plan.,890
+891,Kidney Stone,Clinical assessment supports this diagnosis; additional monitoring may be required.,891
+892,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,892
+893,Asthma,Diagnosis recorded after consultation and appropriate diagnostic procedures.,893
+894,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,894
+895,Back Pain,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,895
+896,Otitis Media,Clinical assessment supports this diagnosis; additional monitoring may be required.,896
+897,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",897
+898,Migraine,"Diagnosis established after review of medical history, physical findings, and test results.",898
+899,Kidney Stone,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,899
+900,Urinary Tract Infection,Diagnosis recorded after consultation and appropriate diagnostic procedures.,900
+901,Dermatitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,901
+902,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",902
+903,Back Pain,"Diagnosis established after review of medical history, physical findings, and test results.",903
+904,Gastritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,904
+905,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,905
+906,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,906
+907,Dermatitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,907
+908,Conjunctivitis,"Diagnosis established after review of medical history, physical findings, and test results.",908
+909,Kidney Stone,Clinical assessment supports this diagnosis; additional monitoring may be required.,909
+910,Depression,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,910
+911,Arrhythmia,"Diagnosis established after review of medical history, physical findings, and test results.",911
+912,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,912
+913,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,913
+914,Anemia,Clinical assessment supports this diagnosis; additional monitoring may be required.,914
+915,Asthma,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,915
+916,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,916
+917,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,917
+918,Gastritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,918
+919,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,919
+920,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,920
+921,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,921
+922,Arrhythmia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,922
+923,Urinary Tract Infection,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,923
+924,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",924
+925,Common Cold,Diagnosis recorded after consultation and appropriate diagnostic procedures.,925
+926,Type 2 Diabetes,Clinical assessment supports this diagnosis; additional monitoring may be required.,926
+927,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,927
+928,Common Cold,Condition identified during appointment with recommendation for follow-up and treatment plan.,928
+929,Type 2 Diabetes,"Diagnosis established after review of medical history, physical findings, and test results.",929
+930,Gastritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,930
+931,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,931
+932,Migraine,Diagnosis recorded after consultation and appropriate diagnostic procedures.,932
+933,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,933
+934,Pneumonia,Clinical assessment supports this diagnosis; additional monitoring may be required.,934
+935,Arrhythmia,Condition identified during appointment with recommendation for follow-up and treatment plan.,935
+936,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",936
+937,Kidney Stone,"Diagnosis established after review of medical history, physical findings, and test results.",937
+938,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,938
+939,Gastritis,"Diagnosis established after review of medical history, physical findings, and test results.",939
+940,Pneumonia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,940
+941,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,941
+942,Dermatitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,942
+943,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,943
+944,Depression,"Diagnosis established after review of medical history, physical findings, and test results.",944
+945,Type 2 Diabetes,Diagnosis recorded after consultation and appropriate diagnostic procedures.,945
+946,Pneumonia,Clinical assessment supports this diagnosis; additional monitoring may be required.,946
+947,Depression,Clinical assessment supports this diagnosis; additional monitoring may be required.,947
+948,Arrhythmia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,948
+949,Arthritis,Clinical assessment supports this diagnosis; additional monitoring may be required.,949
+950,Anxiety Disorder,Clinical assessment supports this diagnosis; additional monitoring may be required.,950
+951,Anxiety Disorder,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,951
+952,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",952
+953,Urinary Tract Infection,Clinical assessment supports this diagnosis; additional monitoring may be required.,953
+954,Back Pain,Condition identified during appointment with recommendation for follow-up and treatment plan.,954
+955,Asthma,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,955
+956,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",956
+957,Fracture,"Diagnosis established after review of medical history, physical findings, and test results.",957
+958,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,958
+959,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,959
+960,Migraine,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,960
+961,Pneumonia,Clinical assessment supports this diagnosis; additional monitoring may be required.,961
+962,Anxiety Disorder,Diagnosis recorded after consultation and appropriate diagnostic procedures.,962
+963,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,963
+964,Allergic Rhinitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,964
+965,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,965
+966,Type 2 Diabetes,Clinical assessment supports this diagnosis; additional monitoring may be required.,966
+967,Arrhythmia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,967
+968,Common Cold,Condition identified during appointment with recommendation for follow-up and treatment plan.,968
+969,Fracture,Condition identified during appointment with recommendation for follow-up and treatment plan.,969
+970,Anemia,Clinical assessment supports this diagnosis; additional monitoring may be required.,970
+971,Type 2 Diabetes,Condition identified during appointment with recommendation for follow-up and treatment plan.,971
+972,Gastritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,972
+973,Arthritis,"Diagnosis established after review of medical history, physical findings, and test results.",973
+974,Pneumonia,"Diagnosis established after review of medical history, physical findings, and test results.",974
+975,Dermatitis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,975
+976,Arrhythmia,Condition identified during appointment with recommendation for follow-up and treatment plan.,976
+977,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,977
+978,Anxiety Disorder,Condition identified during appointment with recommendation for follow-up and treatment plan.,978
+979,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,979
+980,Migraine,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,980
+981,Conjunctivitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,981
+982,Back Pain,Clinical assessment supports this diagnosis; additional monitoring may be required.,982
+983,Fracture,Clinical assessment supports this diagnosis; additional monitoring may be required.,983
+984,Pneumonia,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,984
+985,Kidney Stone,Diagnosis recorded after consultation and appropriate diagnostic procedures.,985
+986,Dermatitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,986
+987,Arthritis,Condition identified during appointment with recommendation for follow-up and treatment plan.,987
+988,Dermatitis,Diagnosis recorded after consultation and appropriate diagnostic procedures.,988
+989,Asthma,"Diagnosis established after review of medical history, physical findings, and test results.",989
+990,Allergic Rhinitis,Clinical assessment supports this diagnosis; additional monitoring may be required.,990
+991,Depression,Condition identified during appointment with recommendation for follow-up and treatment plan.,991
+992,Common Cold,Condition identified during appointment with recommendation for follow-up and treatment plan.,992
+993,Arthritis,Patient evaluated and diagnosis confirmed based on symptoms and clinical examination.,993
+994,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",994
+995,Conjunctivitis,Condition identified during appointment with recommendation for follow-up and treatment plan.,995
+996,Hypertension,"Diagnosis established after review of medical history, physical findings, and test results.",996
+997,Urinary Tract Infection,Condition identified during appointment with recommendation for follow-up and treatment plan.,997
+998,Common Cold,"Diagnosis established after review of medical history, physical findings, and test results.",998
+999,Anemia,Condition identified during appointment with recommendation for follow-up and treatment plan.,999
+1000,Anemia,Diagnosis recorded after consultation and appropriate diagnostic procedures.,1000

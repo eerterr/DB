@@ -1,0 +1,1001 @@
+ID,Name,Price
+1,Vaccination 1,1923.16
+2,Endoscopy 2,1308.74
+3,CT Scan 3,1671.26
+4,Vaccination 4,1972.63
+5,Infusion Therapy 5,891.47
+6,Gastroscopy 6,819.10
+7,Pulmonary Function Test 7,2433.91
+8,Urine Analysis 8,1578.64
+9,Wound Dressing 9,360.77
+10,Ultrasound 10,2160.28
+11,MRI Scan 11,830.45
+12,Hearing Test 12,248.33
+13,EEG 13,1944.41
+14,Minor Surgery 14,1861.21
+15,Endoscopy 15,2251.64
+16,Urine Analysis 16,621.70
+17,X-Ray 17,996.43
+18,Urine Analysis 18,2175.85
+19,Bone Density Test 19,1112.85
+20,X-Ray 20,1622.42
+21,Vaccination 21,181.72
+22,Minor Surgery 22,557.29
+23,Gastroscopy 23,1973.35
+24,Pulmonary Function Test 24,562.74
+25,Vision Test 25,1647.11
+26,Vaccination 26,2392.81
+27,Injection Therapy 27,97.43
+28,Vaccination 28,452.05
+29,Vision Test 29,2389.10
+30,Injection Therapy 30,1546.65
+31,Pulmonary Function Test 31,1044.55
+32,Vaccination 32,2389.47
+33,Pulmonary Function Test 33,1082.07
+34,Chemotherapy Session 34,1651.69
+35,Vision Test 35,211.52
+36,Biopsy 36,609.77
+37,Urine Analysis 37,381.09
+38,Infusion Therapy 38,437.25
+39,Skin Allergy Test 39,925.14
+40,ECG 40,1978.65
+41,EMG 41,2238.94
+42,Physical Therapy 42,817.50
+43,Biopsy 43,685.28
+44,X-Ray 44,1235.53
+45,Skin Allergy Test 45,1170.99
+46,Pulmonary Function Test 46,2209.20
+47,ECG 47,424.87
+48,Endoscopy 48,742.36
+49,Blood Test 49,1438.33
+50,Echocardiogram 50,2166.95
+51,Vision Test 51,2031.64
+52,Stress Test 52,1257.84
+53,Bone Density Test 53,1819.45
+54,Vaccination 54,2235.85
+55,Hearing Test 55,2066.55
+56,EMG 56,1466.11
+57,Blood Test 57,487.32
+58,Vaccination 58,1114.35
+59,Vaccination 59,162.21
+60,ECG 60,1675.13
+61,Hearing Test 61,1184.56
+62,Stitches Removal 62,2278.89
+63,Pulmonary Function Test 63,303.47
+64,Wound Dressing 64,1777.10
+65,EEG 65,834.02
+66,Vision Test 66,2379.31
+67,Injection Therapy 67,1309.39
+68,Ultrasound 68,394.37
+69,Holter Monitoring 69,1696.17
+70,X-Ray 70,358.42
+71,Dialysis 71,1007.90
+72,Holter Monitoring 72,1822.12
+73,MRI Scan 73,1381.25
+74,Vaccination 74,118.20
+75,MRI Scan 75,681.65
+76,Urine Analysis 76,1235.14
+77,Holter Monitoring 77,2350.82
+78,Infusion Therapy 78,1177.36
+79,Stitches Removal 79,1277.14
+80,Vision Test 80,1109.97
+81,Minor Surgery 81,546.20
+82,Pulmonary Function Test 82,1812.06
+83,Infusion Therapy 83,946.18
+84,Stitches Removal 84,909.48
+85,ECG 85,1602.63
+86,Endoscopy 86,2312.65
+87,Holter Monitoring 87,2098.69
+88,Stress Test 88,1981.08
+89,EEG 89,1927.21
+90,Physical Therapy 90,67.91
+91,Biopsy 91,609.81
+92,Endoscopy 92,1622.38
+93,EEG 93,1442.35
+94,Holter Monitoring 94,1445.28
+95,X-Ray 95,1164.03
+96,Dialysis 96,2092.08
+97,Vaccination 97,2386.38
+98,EMG 98,1826.70
+99,Infusion Therapy 99,2323.13
+100,CT Scan 100,81.53
+101,Ultrasound 101,1616.21
+102,Vaccination 102,1953.57
+103,Pulmonary Function Test 103,2356.02
+104,Pulmonary Function Test 104,886.91
+105,Blood Test 105,253.88
+106,Physical Therapy 106,1207.97
+107,Skin Allergy Test 107,2172.95
+108,Stitches Removal 108,502.31
+109,Hearing Test 109,2062.54
+110,Injection Therapy 110,37.16
+111,Colonoscopy 111,2480.64
+112,CT Scan 112,545.78
+113,Vision Test 113,1262.17
+114,Hearing Test 114,2419.35
+115,Ultrasound 115,1009.60
+116,Skin Allergy Test 116,398.56
+117,Ultrasound 117,311.01
+118,Vaccination 118,317.25
+119,Minor Surgery 119,2311.87
+120,Gastroscopy 120,1040.03
+121,Stress Test 121,1658.95
+122,MRI Scan 122,310.04
+123,Stress Test 123,1871.40
+124,CT Scan 124,311.94
+125,Endoscopy 125,1021.67
+126,Ultrasound 126,2285.38
+127,MRI Scan 127,324.37
+128,Pulmonary Function Test 128,104.00
+129,Ultrasound 129,1814.42
+130,Minor Surgery 130,1862.88
+131,Stitches Removal 131,1905.88
+132,Injection Therapy 132,640.47
+133,Injection Therapy 133,1566.86
+134,Pulmonary Function Test 134,554.87
+135,Biopsy 135,1440.41
+136,Colonoscopy 136,966.20
+137,Physical Therapy 137,1351.97
+138,Minor Surgery 138,467.62
+139,Skin Allergy Test 139,2195.26
+140,Holter Monitoring 140,771.13
+141,Stitches Removal 141,281.48
+142,Stress Test 142,1967.88
+143,Vaccination 143,273.64
+144,Biopsy 144,81.21
+145,Urine Analysis 145,1715.53
+146,Skin Allergy Test 146,1323.92
+147,Injection Therapy 147,859.46
+148,Blood Test 148,1451.66
+149,Chemotherapy Session 149,2455.41
+150,Ultrasound 150,1500.90
+151,Endoscopy 151,343.80
+152,EEG 152,2062.51
+153,Physical Therapy 153,1759.05
+154,Dialysis 154,2486.55
+155,Dialysis 155,1810.90
+156,EEG 156,1982.66
+157,Holter Monitoring 157,1861.73
+158,Skin Allergy Test 158,28.06
+159,Injection Therapy 159,556.18
+160,Minor Surgery 160,1432.95
+161,Dialysis 161,342.30
+162,Bone Density Test 162,1469.06
+163,EEG 163,67.29
+164,X-Ray 164,591.44
+165,Gastroscopy 165,318.66
+166,Echocardiogram 166,497.12
+167,Injection Therapy 167,913.56
+168,Chemotherapy Session 168,1360.61
+169,Endoscopy 169,784.69
+170,Injection Therapy 170,347.58
+171,EMG 171,91.93
+172,CT Scan 172,2223.05
+173,Stress Test 173,411.52
+174,Ultrasound 174,2475.50
+175,Injection Therapy 175,158.19
+176,X-Ray 176,920.51
+177,Vaccination 177,1211.29
+178,Urine Analysis 178,1249.77
+179,MRI Scan 179,436.72
+180,Hearing Test 180,177.26
+181,Pulmonary Function Test 181,1810.83
+182,CT Scan 182,1092.27
+183,EMG 183,1487.26
+184,Colonoscopy 184,589.80
+185,Ultrasound 185,2153.53
+186,Stitches Removal 186,1633.98
+187,Infusion Therapy 187,289.92
+188,Chemotherapy Session 188,671.13
+189,EMG 189,417.53
+190,Infusion Therapy 190,1719.01
+191,Skin Allergy Test 191,43.75
+192,Bone Density Test 192,1783.07
+193,Biopsy 193,105.15
+194,MRI Scan 194,333.62
+195,Hearing Test 195,923.89
+196,Infusion Therapy 196,1028.71
+197,Wound Dressing 197,1421.96
+198,Stress Test 198,1608.60
+199,Dialysis 199,1072.39
+200,Holter Monitoring 200,787.94
+201,CT Scan 201,942.95
+202,Vision Test 202,1700.74
+203,Dialysis 203,945.63
+204,Colonoscopy 204,2112.68
+205,ECG 205,646.92
+206,EEG 206,288.40
+207,EEG 207,2029.97
+208,Gastroscopy 208,1099.61
+209,X-Ray 209,134.21
+210,MRI Scan 210,1928.66
+211,Holter Monitoring 211,1964.41
+212,X-Ray 212,120.86
+213,Blood Test 213,2020.09
+214,Pulmonary Function Test 214,1986.51
+215,Urine Analysis 215,593.88
+216,Gastroscopy 216,1011.63
+217,Stress Test 217,2359.44
+218,Wound Dressing 218,425.64
+219,Stitches Removal 219,130.49
+220,Blood Test 220,1304.21
+221,Holter Monitoring 221,1823.74
+222,Dialysis 222,1133.21
+223,Ultrasound 223,1492.05
+224,EMG 224,1806.49
+225,Chemotherapy Session 225,1768.15
+226,Gastroscopy 226,233.98
+227,Stitches Removal 227,130.07
+228,Gastroscopy 228,276.62
+229,MRI Scan 229,1168.32
+230,ECG 230,847.04
+231,MRI Scan 231,2037.17
+232,Biopsy 232,918.77
+233,Stitches Removal 233,2385.87
+234,Wound Dressing 234,768.09
+235,Holter Monitoring 235,1016.53
+236,X-Ray 236,1767.56
+237,Blood Test 237,68.14
+238,Colonoscopy 238,474.77
+239,Urine Analysis 239,2152.03
+240,Minor Surgery 240,904.45
+241,Colonoscopy 241,1765.93
+242,Hearing Test 242,653.06
+243,Blood Test 243,531.29
+244,Urine Analysis 244,38.53
+245,Physical Therapy 245,2499.40
+246,Holter Monitoring 246,2183.62
+247,Physical Therapy 247,1527.23
+248,Vaccination 248,2060.90
+249,Injection Therapy 249,2348.38
+250,Injection Therapy 250,654.20
+251,Colonoscopy 251,2226.85
+252,Colonoscopy 252,2062.40
+253,CT Scan 253,899.25
+254,CT Scan 254,1323.42
+255,EEG 255,367.10
+256,EMG 256,1200.63
+257,MRI Scan 257,167.51
+258,Echocardiogram 258,1022.39
+259,Colonoscopy 259,272.91
+260,Chemotherapy Session 260,1576.42
+261,Blood Test 261,1893.86
+262,Holter Monitoring 262,313.29
+263,Gastroscopy 263,1481.57
+264,Minor Surgery 264,1181.71
+265,Injection Therapy 265,649.48
+266,Blood Test 266,1878.83
+267,Echocardiogram 267,1474.27
+268,Urine Analysis 268,1926.47
+269,Urine Analysis 269,193.16
+270,Bone Density Test 270,1418.23
+271,Bone Density Test 271,2148.35
+272,Skin Allergy Test 272,1748.68
+273,Vision Test 273,32.49
+274,ECG 274,1677.58
+275,Bone Density Test 275,187.80
+276,Holter Monitoring 276,451.00
+277,Echocardiogram 277,1536.13
+278,Stitches Removal 278,118.80
+279,Vision Test 279,761.63
+280,EEG 280,1504.89
+281,Wound Dressing 281,2324.92
+282,Endoscopy 282,1963.73
+283,Stitches Removal 283,2474.50
+284,Skin Allergy Test 284,578.61
+285,CT Scan 285,516.69
+286,Vision Test 286,1111.57
+287,X-Ray 287,2038.82
+288,Endoscopy 288,1517.39
+289,Pulmonary Function Test 289,749.22
+290,Colonoscopy 290,2272.49
+291,X-Ray 291,392.39
+292,Wound Dressing 292,734.47
+293,MRI Scan 293,1225.43
+294,Vision Test 294,683.78
+295,ECG 295,2081.52
+296,Stress Test 296,822.74
+297,Vaccination 297,547.07
+298,Bone Density Test 298,2418.43
+299,Minor Surgery 299,1487.66
+300,Biopsy 300,1467.59
+301,Injection Therapy 301,307.00
+302,Hearing Test 302,1129.02
+303,Blood Test 303,190.81
+304,EEG 304,2279.90
+305,Vaccination 305,2211.48
+306,EMG 306,2470.41
+307,Minor Surgery 307,370.43
+308,Physical Therapy 308,1181.49
+309,Stitches Removal 309,1165.34
+310,Infusion Therapy 310,1362.86
+311,Vaccination 311,286.59
+312,Colonoscopy 312,160.93
+313,Vaccination 313,1660.37
+314,Minor Surgery 314,92.89
+315,Holter Monitoring 315,1659.59
+316,Echocardiogram 316,260.32
+317,Injection Therapy 317,2257.29
+318,Urine Analysis 318,2360.69
+319,Holter Monitoring 319,232.13
+320,Dialysis 320,1718.76
+321,Stress Test 321,1547.64
+322,Stitches Removal 322,1498.80
+323,Infusion Therapy 323,2482.80
+324,Vision Test 324,1135.24
+325,Ultrasound 325,2246.18
+326,CT Scan 326,2440.63
+327,Blood Test 327,1834.12
+328,Urine Analysis 328,1271.53
+329,Vision Test 329,2412.34
+330,Injection Therapy 330,1662.18
+331,Blood Test 331,2042.91
+332,EMG 332,199.76
+333,Urine Analysis 333,2321.99
+334,Infusion Therapy 334,668.59
+335,Urine Analysis 335,367.15
+336,Stress Test 336,322.60
+337,Infusion Therapy 337,2211.52
+338,Stitches Removal 338,1295.03
+339,Injection Therapy 339,602.02
+340,Gastroscopy 340,2431.98
+341,Dialysis 341,1108.23
+342,Blood Test 342,1359.27
+343,MRI Scan 343,2034.38
+344,Echocardiogram 344,1361.74
+345,Colonoscopy 345,1198.91
+346,Wound Dressing 346,1674.80
+347,EEG 347,2110.42
+348,EEG 348,492.56
+349,Vision Test 349,235.69
+350,Hearing Test 350,1022.99
+351,Stress Test 351,1628.68
+352,CT Scan 352,2337.02
+353,Stitches Removal 353,2230.20
+354,Minor Surgery 354,2047.43
+355,Echocardiogram 355,1983.87
+356,Hearing Test 356,1684.27
+357,Urine Analysis 357,2261.93
+358,Ultrasound 358,1171.81
+359,Stress Test 359,995.46
+360,Minor Surgery 360,2327.28
+361,Wound Dressing 361,1669.84
+362,MRI Scan 362,686.16
+363,Vision Test 363,902.74
+364,Bone Density Test 364,316.84
+365,Infusion Therapy 365,1981.42
+366,Holter Monitoring 366,1462.91
+367,X-Ray 367,902.66
+368,MRI Scan 368,1248.53
+369,Urine Analysis 369,1614.76
+370,Vaccination 370,1231.58
+371,Minor Surgery 371,2237.06
+372,Bone Density Test 372,1394.20
+373,ECG 373,849.93
+374,Endoscopy 374,901.26
+375,Stress Test 375,2329.25
+376,Vision Test 376,1999.71
+377,Holter Monitoring 377,1655.11
+378,Skin Allergy Test 378,1010.44
+379,Biopsy 379,1609.00
+380,Infusion Therapy 380,1521.75
+381,Colonoscopy 381,1762.48
+382,Biopsy 382,2091.84
+383,Endoscopy 383,974.73
+384,ECG 384,1807.88
+385,Injection Therapy 385,1539.21
+386,Blood Test 386,682.47
+387,Stitches Removal 387,798.17
+388,CT Scan 388,1123.77
+389,Ultrasound 389,1413.06
+390,X-Ray 390,980.19
+391,Vaccination 391,2453.54
+392,Dialysis 392,1460.49
+393,ECG 393,2068.16
+394,Colonoscopy 394,706.16
+395,Urine Analysis 395,334.52
+396,Stitches Removal 396,2419.96
+397,Holter Monitoring 397,1952.20
+398,Echocardiogram 398,1348.19
+399,Urine Analysis 399,1749.30
+400,ECG 400,1544.85
+401,Infusion Therapy 401,1103.87
+402,Echocardiogram 402,1003.09
+403,Ultrasound 403,2476.72
+404,Stress Test 404,1329.84
+405,Hearing Test 405,1449.98
+406,Colonoscopy 406,79.59
+407,EEG 407,181.94
+408,Biopsy 408,207.79
+409,EEG 409,304.54
+410,Infusion Therapy 410,1897.80
+411,Pulmonary Function Test 411,639.51
+412,Minor Surgery 412,1894.84
+413,Hearing Test 413,1609.24
+414,Vaccination 414,2496.48
+415,EMG 415,531.31
+416,Colonoscopy 416,292.20
+417,Physical Therapy 417,1200.90
+418,Colonoscopy 418,2238.75
+419,Chemotherapy Session 419,486.79
+420,ECG 420,133.38
+421,Echocardiogram 421,820.01
+422,Stitches Removal 422,258.63
+423,Chemotherapy Session 423,1954.90
+424,Bone Density Test 424,79.28
+425,Vaccination 425,916.78
+426,Echocardiogram 426,1882.43
+427,Wound Dressing 427,383.00
+428,X-Ray 428,1550.29
+429,Colonoscopy 429,811.76
+430,MRI Scan 430,2185.78
+431,Bone Density Test 431,740.65
+432,Blood Test 432,1974.55
+433,Colonoscopy 433,1020.11
+434,CT Scan 434,1188.36
+435,Pulmonary Function Test 435,1223.49
+436,Injection Therapy 436,2330.11
+437,CT Scan 437,1936.69
+438,Ultrasound 438,1757.98
+439,Hearing Test 439,1357.14
+440,Stress Test 440,1377.89
+441,MRI Scan 441,1378.09
+442,Injection Therapy 442,1830.48
+443,EMG 443,1016.74
+444,EEG 444,1389.10
+445,X-Ray 445,696.96
+446,Gastroscopy 446,695.40
+447,Stitches Removal 447,2123.28
+448,X-Ray 448,1973.51
+449,EEG 449,832.96
+450,Vaccination 450,2299.81
+451,Skin Allergy Test 451,956.92
+452,Echocardiogram 452,1376.14
+453,Hearing Test 453,1666.34
+454,Hearing Test 454,2016.80
+455,ECG 455,1754.73
+456,Vision Test 456,1004.67
+457,Hearing Test 457,1385.14
+458,Biopsy 458,2327.52
+459,Endoscopy 459,1428.87
+460,Bone Density Test 460,2233.99
+461,CT Scan 461,835.13
+462,Vision Test 462,671.52
+463,Chemotherapy Session 463,2013.86
+464,MRI Scan 464,298.85
+465,Hearing Test 465,358.55
+466,Hearing Test 466,1706.82
+467,MRI Scan 467,2115.93
+468,Stress Test 468,1207.45
+469,Dialysis 469,634.83
+470,Injection Therapy 470,969.19
+471,Bone Density Test 471,135.11
+472,X-Ray 472,199.20
+473,CT Scan 473,1070.64
+474,Pulmonary Function Test 474,178.12
+475,EEG 475,1500.12
+476,Stress Test 476,1933.95
+477,Holter Monitoring 477,1002.34
+478,Colonoscopy 478,803.11
+479,Colonoscopy 479,2440.26
+480,Skin Allergy Test 480,336.26
+481,Stitches Removal 481,1458.69
+482,Chemotherapy Session 482,946.66
+483,MRI Scan 483,962.98
+484,Blood Test 484,146.65
+485,Hearing Test 485,1648.76
+486,Vision Test 486,770.30
+487,Ultrasound 487,764.32
+488,Vision Test 488,644.29
+489,MRI Scan 489,750.96
+490,Endoscopy 490,2496.63
+491,Minor Surgery 491,2166.33
+492,Holter Monitoring 492,2260.00
+493,EMG 493,1402.96
+494,Colonoscopy 494,1092.57
+495,Colonoscopy 495,148.76
+496,Holter Monitoring 496,1103.61
+497,Vaccination 497,60.53
+498,Holter Monitoring 498,2330.20
+499,Chemotherapy Session 499,1073.39
+500,Dialysis 500,1237.82
+501,Gastroscopy 501,866.29
+502,Infusion Therapy 502,97.23
+503,Gastroscopy 503,1961.73
+504,Biopsy 504,1925.81
+505,ECG 505,500.91
+506,Stitches Removal 506,2018.03
+507,Blood Test 507,1077.25
+508,ECG 508,2146.17
+509,Dialysis 509,663.77
+510,Endoscopy 510,2192.82
+511,Holter Monitoring 511,348.75
+512,Skin Allergy Test 512,481.21
+513,Colonoscopy 513,857.86
+514,Biopsy 514,159.13
+515,Endoscopy 515,1590.74
+516,Hearing Test 516,1530.39
+517,ECG 517,2315.25
+518,Blood Test 518,1744.61
+519,Minor Surgery 519,1078.10
+520,EMG 520,487.18
+521,Vaccination 521,401.59
+522,Vaccination 522,2409.12
+523,Holter Monitoring 523,1143.52
+524,Infusion Therapy 524,1208.95
+525,Minor Surgery 525,1198.02
+526,Endoscopy 526,357.48
+527,Chemotherapy Session 527,1542.85
+528,Endoscopy 528,93.68
+529,CT Scan 529,462.77
+530,Bone Density Test 530,2459.15
+531,CT Scan 531,946.96
+532,EMG 532,1270.82
+533,Echocardiogram 533,1345.19
+534,Stitches Removal 534,1607.56
+535,MRI Scan 535,40.15
+536,Infusion Therapy 536,2449.09
+537,Blood Test 537,293.16
+538,Vision Test 538,1302.77
+539,Endoscopy 539,1215.97
+540,Wound Dressing 540,2479.30
+541,Ultrasound 541,509.81
+542,CT Scan 542,452.90
+543,Hearing Test 543,2209.13
+544,Dialysis 544,1124.12
+545,Holter Monitoring 545,2245.73
+546,Injection Therapy 546,2009.74
+547,Gastroscopy 547,358.90
+548,Bone Density Test 548,1036.16
+549,Echocardiogram 549,2135.54
+550,Skin Allergy Test 550,2034.67
+551,CT Scan 551,389.50
+552,X-Ray 552,2300.82
+553,MRI Scan 553,529.63
+554,Echocardiogram 554,591.30
+555,Stress Test 555,2214.13
+556,Chemotherapy Session 556,589.24
+557,Dialysis 557,1748.67
+558,Pulmonary Function Test 558,980.03
+559,Stress Test 559,1342.42
+560,Gastroscopy 560,1396.42
+561,EEG 561,1598.01
+562,Dialysis 562,2458.92
+563,Stitches Removal 563,457.70
+564,Ultrasound 564,330.43
+565,Urine Analysis 565,1744.42
+566,ECG 566,1271.07
+567,Infusion Therapy 567,651.71
+568,Holter Monitoring 568,1887.24
+569,Echocardiogram 569,141.69
+570,Minor Surgery 570,2362.82
+571,Echocardiogram 571,781.12
+572,Dialysis 572,730.89
+573,Gastroscopy 573,862.88
+574,Ultrasound 574,2177.93
+575,EMG 575,2203.13
+576,X-Ray 576,371.36
+577,Physical Therapy 577,406.56
+578,Bone Density Test 578,2462.20
+579,Biopsy 579,1930.13
+580,Hearing Test 580,1919.24
+581,Pulmonary Function Test 581,2443.45
+582,Minor Surgery 582,2351.71
+583,Pulmonary Function Test 583,2043.61
+584,CT Scan 584,1140.61
+585,Infusion Therapy 585,1939.55
+586,Stress Test 586,535.54
+587,Minor Surgery 587,751.34
+588,Skin Allergy Test 588,1704.33
+589,Vaccination 589,1235.98
+590,Blood Test 590,499.28
+591,EEG 591,1398.84
+592,Endoscopy 592,1720.58
+593,EEG 593,205.12
+594,Wound Dressing 594,900.23
+595,Blood Test 595,1646.26
+596,MRI Scan 596,2007.96
+597,CT Scan 597,1526.68
+598,Endoscopy 598,2406.73
+599,EEG 599,128.21
+600,Chemotherapy Session 600,1794.03
+601,Physical Therapy 601,107.17
+602,Hearing Test 602,2485.97
+603,ECG 603,829.37
+604,Urine Analysis 604,1270.03
+605,Ultrasound 605,685.24
+606,Infusion Therapy 606,592.86
+607,EMG 607,593.06
+608,Biopsy 608,54.24
+609,EMG 609,2304.06
+610,Bone Density Test 610,1974.90
+611,Pulmonary Function Test 611,282.00
+612,CT Scan 612,1795.01
+613,Endoscopy 613,1115.34
+614,Stitches Removal 614,734.35
+615,Infusion Therapy 615,190.73
+616,Colonoscopy 616,879.72
+617,Vaccination 617,715.16
+618,Echocardiogram 618,2294.05
+619,Dialysis 619,672.59
+620,Colonoscopy 620,157.38
+621,Urine Analysis 621,545.41
+622,Urine Analysis 622,2200.55
+623,Bone Density Test 623,188.24
+624,Hearing Test 624,1558.36
+625,Gastroscopy 625,1768.83
+626,Urine Analysis 626,290.20
+627,Skin Allergy Test 627,1723.45
+628,Stress Test 628,2278.11
+629,Pulmonary Function Test 629,1682.06
+630,ECG 630,1618.03
+631,X-Ray 631,389.03
+632,Gastroscopy 632,2401.85
+633,Stitches Removal 633,1661.15
+634,EMG 634,1358.70
+635,Endoscopy 635,2014.67
+636,Vision Test 636,1458.72
+637,Vision Test 637,1331.04
+638,Stress Test 638,408.63
+639,Infusion Therapy 639,1916.73
+640,Hearing Test 640,175.78
+641,Chemotherapy Session 641,1216.07
+642,Bone Density Test 642,353.79
+643,Wound Dressing 643,284.02
+644,EEG 644,1137.30
+645,Ultrasound 645,653.14
+646,ECG 646,115.16
+647,CT Scan 647,2158.07
+648,Hearing Test 648,1362.61
+649,Endoscopy 649,1783.42
+650,Vaccination 650,687.80
+651,Infusion Therapy 651,529.24
+652,Urine Analysis 652,1630.53
+653,Vision Test 653,1137.59
+654,Stitches Removal 654,607.78
+655,Vision Test 655,1986.06
+656,Ultrasound 656,2440.07
+657,Skin Allergy Test 657,1657.34
+658,Wound Dressing 658,99.46
+659,Injection Therapy 659,2046.86
+660,Infusion Therapy 660,1427.29
+661,Vaccination 661,1304.78
+662,Stitches Removal 662,2312.28
+663,Bone Density Test 663,1455.73
+664,Injection Therapy 664,549.93
+665,Ultrasound 665,324.79
+666,EEG 666,314.51
+667,Vaccination 667,594.30
+668,Infusion Therapy 668,30.23
+669,CT Scan 669,1736.87
+670,Endoscopy 670,1166.74
+671,Endoscopy 671,308.67
+672,Injection Therapy 672,98.76
+673,EEG 673,1587.66
+674,Minor Surgery 674,2172.89
+675,Injection Therapy 675,2010.04
+676,Wound Dressing 676,1794.29
+677,X-Ray 677,52.73
+678,CT Scan 678,2049.13
+679,Physical Therapy 679,947.36
+680,Holter Monitoring 680,255.03
+681,MRI Scan 681,2295.24
+682,ECG 682,2246.91
+683,Biopsy 683,2323.18
+684,Skin Allergy Test 684,628.82
+685,CT Scan 685,1484.34
+686,Stress Test 686,142.23
+687,Wound Dressing 687,709.00
+688,Holter Monitoring 688,1883.91
+689,EMG 689,1387.07
+690,Ultrasound 690,507.59
+691,Biopsy 691,1036.45
+692,Vision Test 692,808.07
+693,Minor Surgery 693,1980.51
+694,MRI Scan 694,34.03
+695,Pulmonary Function Test 695,1938.41
+696,Blood Test 696,1156.18
+697,Stress Test 697,1025.59
+698,Vaccination 698,33.68
+699,EEG 699,2043.56
+700,Chemotherapy Session 700,2382.43
+701,Vision Test 701,963.49
+702,EEG 702,209.47
+703,Blood Test 703,2259.77
+704,MRI Scan 704,1103.88
+705,Infusion Therapy 705,1679.39
+706,Colonoscopy 706,689.96
+707,CT Scan 707,57.28
+708,Skin Allergy Test 708,997.64
+709,Dialysis 709,765.25
+710,CT Scan 710,1779.67
+711,Bone Density Test 711,2105.79
+712,ECG 712,2467.28
+713,Blood Test 713,2024.21
+714,Urine Analysis 714,826.73
+715,Endoscopy 715,1544.94
+716,Injection Therapy 716,2292.86
+717,Echocardiogram 717,1936.75
+718,Wound Dressing 718,128.85
+719,Hearing Test 719,62.23
+720,Stress Test 720,1415.20
+721,Physical Therapy 721,1088.99
+722,Urine Analysis 722,525.70
+723,Urine Analysis 723,373.55
+724,Urine Analysis 724,1820.90
+725,Vision Test 725,1564.03
+726,Vaccination 726,986.33
+727,Gastroscopy 727,1967.66
+728,Stitches Removal 728,604.35
+729,Colonoscopy 729,1406.12
+730,Stitches Removal 730,2246.82
+731,Vision Test 731,317.83
+732,Stitches Removal 732,2487.64
+733,Minor Surgery 733,1611.08
+734,Holter Monitoring 734,1545.55
+735,Dialysis 735,100.82
+736,Holter Monitoring 736,1488.62
+737,Vaccination 737,923.48
+738,EMG 738,216.90
+739,Gastroscopy 739,2244.56
+740,Blood Test 740,1740.70
+741,ECG 741,338.10
+742,CT Scan 742,353.44
+743,Infusion Therapy 743,1761.32
+744,Dialysis 744,1150.02
+745,Skin Allergy Test 745,1316.89
+746,Urine Analysis 746,2081.82
+747,Vaccination 747,965.85
+748,Biopsy 748,2445.00
+749,Urine Analysis 749,2140.58
+750,Stress Test 750,2360.43
+751,Infusion Therapy 751,1439.81
+752,Injection Therapy 752,369.52
+753,CT Scan 753,1965.31
+754,Dialysis 754,855.65
+755,Chemotherapy Session 755,2429.50
+756,X-Ray 756,1164.91
+757,Gastroscopy 757,744.70
+758,CT Scan 758,1685.64
+759,Ultrasound 759,1233.49
+760,Endoscopy 760,1515.25
+761,Holter Monitoring 761,209.71
+762,Urine Analysis 762,1690.61
+763,EEG 763,1621.33
+764,Ultrasound 764,718.82
+765,Hearing Test 765,1789.11
+766,Endoscopy 766,2351.41
+767,Colonoscopy 767,684.02
+768,Vaccination 768,373.76
+769,Wound Dressing 769,852.31
+770,Vision Test 770,209.26
+771,MRI Scan 771,2032.63
+772,Infusion Therapy 772,2489.37
+773,Infusion Therapy 773,679.23
+774,Pulmonary Function Test 774,931.94
+775,Injection Therapy 775,351.43
+776,EEG 776,1395.04
+777,Minor Surgery 777,751.78
+778,Wound Dressing 778,2087.76
+779,MRI Scan 779,814.43
+780,Stress Test 780,1276.85
+781,Blood Test 781,2116.18
+782,Ultrasound 782,337.66
+783,EMG 783,933.74
+784,EEG 784,25.15
+785,Vision Test 785,69.70
+786,Pulmonary Function Test 786,148.21
+787,Skin Allergy Test 787,1013.26
+788,Injection Therapy 788,1767.71
+789,Chemotherapy Session 789,1039.77
+790,MRI Scan 790,1161.91
+791,Physical Therapy 791,2072.52
+792,Echocardiogram 792,2122.86
+793,Wound Dressing 793,2479.90
+794,Stitches Removal 794,428.31
+795,Urine Analysis 795,1537.29
+796,Infusion Therapy 796,1809.77
+797,Holter Monitoring 797,718.00
+798,MRI Scan 798,245.17
+799,Stitches Removal 799,1638.58
+800,Injection Therapy 800,2046.65
+801,Vaccination 801,423.27
+802,Echocardiogram 802,1799.76
+803,ECG 803,247.97
+804,Colonoscopy 804,204.41
+805,Injection Therapy 805,1367.06
+806,Injection Therapy 806,1992.23
+807,Dialysis 807,40.46
+808,CT Scan 808,170.82
+809,Dialysis 809,2358.85
+810,Skin Allergy Test 810,1752.59
+811,MRI Scan 811,251.38
+812,Vision Test 812,945.21
+813,Blood Test 813,1535.79
+814,EMG 814,1172.96
+815,Holter Monitoring 815,295.29
+816,EEG 816,1650.92
+817,Chemotherapy Session 817,485.18
+818,CT Scan 818,1875.14
+819,MRI Scan 819,1866.07
+820,ECG 820,2368.84
+821,EMG 821,1990.01
+822,MRI Scan 822,2056.52
+823,Ultrasound 823,519.03
+824,MRI Scan 824,1169.38
+825,Holter Monitoring 825,1089.72
+826,Chemotherapy Session 826,1709.20
+827,Blood Test 827,2393.53
+828,Echocardiogram 828,2267.48
+829,EEG 829,2470.24
+830,CT Scan 830,2196.21
+831,Vision Test 831,1968.39
+832,Urine Analysis 832,1785.66
+833,Bone Density Test 833,750.26
+834,Holter Monitoring 834,1623.50
+835,Holter Monitoring 835,1429.53
+836,Gastroscopy 836,1047.68
+837,Urine Analysis 837,1443.38
+838,EMG 838,2147.22
+839,Dialysis 839,350.48
+840,Echocardiogram 840,715.60
+841,Wound Dressing 841,1920.83
+842,Colonoscopy 842,2094.92
+843,CT Scan 843,2399.36
+844,Holter Monitoring 844,1809.35
+845,Injection Therapy 845,374.60
+846,Wound Dressing 846,525.41
+847,Biopsy 847,2032.07
+848,CT Scan 848,552.71
+849,Stress Test 849,1820.25
+850,CT Scan 850,112.92
+851,Chemotherapy Session 851,137.37
+852,Dialysis 852,1942.34
+853,Minor Surgery 853,1536.67
+854,ECG 854,1719.39
+855,CT Scan 855,1183.97
+856,Biopsy 856,553.01
+857,Infusion Therapy 857,1964.59
+858,Pulmonary Function Test 858,915.86
+859,Echocardiogram 859,1321.94
+860,Infusion Therapy 860,2064.04
+861,Chemotherapy Session 861,2181.61
+862,Ultrasound 862,1066.18
+863,MRI Scan 863,1028.94
+864,Echocardiogram 864,2448.06
+865,Colonoscopy 865,121.32
+866,Colonoscopy 866,1133.32
+867,Vision Test 867,1381.19
+868,Bone Density Test 868,2491.23
+869,Infusion Therapy 869,766.45
+870,Urine Analysis 870,1270.87
+871,Urine Analysis 871,776.51
+872,Vaccination 872,811.85
+873,ECG 873,972.00
+874,Holter Monitoring 874,2271.69
+875,EMG 875,762.34
+876,Injection Therapy 876,366.30
+877,MRI Scan 877,843.85
+878,MRI Scan 878,1127.65
+879,Gastroscopy 879,2319.35
+880,Bone Density Test 880,149.05
+881,Dialysis 881,1136.24
+882,Chemotherapy Session 882,897.29
+883,Dialysis 883,2403.28
+884,Vaccination 884,534.83
+885,Vaccination 885,1829.74
+886,Blood Test 886,1495.31
+887,Urine Analysis 887,2343.87
+888,Infusion Therapy 888,1920.01
+889,X-Ray 889,130.20
+890,Skin Allergy Test 890,1757.10
+891,Pulmonary Function Test 891,93.20
+892,Hearing Test 892,276.75
+893,ECG 893,271.83
+894,CT Scan 894,2492.03
+895,Gastroscopy 895,1952.80
+896,Endoscopy 896,259.52
+897,Minor Surgery 897,72.26
+898,Chemotherapy Session 898,2018.47
+899,Bone Density Test 899,2357.51
+900,Minor Surgery 900,987.94
+901,Minor Surgery 901,1764.18
+902,Vaccination 902,1593.77
+903,Endoscopy 903,1799.79
+904,Dialysis 904,2300.46
+905,Chemotherapy Session 905,2048.49
+906,Injection Therapy 906,688.42
+907,CT Scan 907,1714.41
+908,Blood Test 908,2235.10
+909,Minor Surgery 909,359.70
+910,Gastroscopy 910,2255.26
+911,Holter Monitoring 911,1989.87
+912,Vision Test 912,909.43
+913,MRI Scan 913,51.17
+914,EMG 914,1058.76
+915,Holter Monitoring 915,1756.60
+916,MRI Scan 916,220.38
+917,X-Ray 917,859.72
+918,EMG 918,1805.70
+919,Vaccination 919,2268.60
+920,Dialysis 920,2417.37
+921,Skin Allergy Test 921,1723.80
+922,Vision Test 922,667.58
+923,Skin Allergy Test 923,2229.23
+924,Chemotherapy Session 924,104.18
+925,Biopsy 925,133.47
+926,EEG 926,1243.47
+927,Stress Test 927,1121.28
+928,Physical Therapy 928,2115.20
+929,Gastroscopy 929,1497.53
+930,MRI Scan 930,2328.61
+931,Bone Density Test 931,1864.33
+932,Minor Surgery 932,931.24
+933,Blood Test 933,2285.80
+934,Minor Surgery 934,1883.72
+935,CT Scan 935,144.16
+936,Endoscopy 936,737.42
+937,Minor Surgery 937,1564.55
+938,Biopsy 938,1937.83
+939,Blood Test 939,528.08
+940,Infusion Therapy 940,1457.97
+941,Blood Test 941,711.65
+942,Ultrasound 942,2345.78
+943,Infusion Therapy 943,555.92
+944,MRI Scan 944,1278.54
+945,Bone Density Test 945,2431.45
+946,Biopsy 946,184.41
+947,Urine Analysis 947,767.23
+948,Hearing Test 948,2276.90
+949,ECG 949,2476.45
+950,Chemotherapy Session 950,2204.24
+951,Hearing Test 951,2232.47
+952,Urine Analysis 952,913.96
+953,Stress Test 953,1881.36
+954,Injection Therapy 954,950.15
+955,Vision Test 955,867.66
+956,MRI Scan 956,919.33
+957,CT Scan 957,107.31
+958,Colonoscopy 958,2410.29
+959,Vision Test 959,2352.91
+960,Blood Test 960,1619.21
+961,Endoscopy 961,1438.70
+962,Injection Therapy 962,2274.36
+963,Urine Analysis 963,170.50
+964,Urine Analysis 964,982.47
+965,Gastroscopy 965,1206.81
+966,MRI Scan 966,1951.28
+967,Infusion Therapy 967,623.05
+968,Wound Dressing 968,1264.86
+969,Bone Density Test 969,1708.54
+970,Bone Density Test 970,2227.16
+971,Physical Therapy 971,1663.98
+972,Vision Test 972,2124.49
+973,Biopsy 973,1463.11
+974,Dialysis 974,2158.17
+975,Blood Test 975,31.88
+976,Wound Dressing 976,1159.73
+977,Stress Test 977,2123.96
+978,Vaccination 978,852.08
+979,Blood Test 979,564.47
+980,Skin Allergy Test 980,886.15
+981,Blood Test 981,205.37
+982,Physical Therapy 982,2463.79
+983,Chemotherapy Session 983,656.38
+984,Infusion Therapy 984,993.13
+985,Biopsy 985,286.78
+986,Urine Analysis 986,655.56
+987,Vision Test 987,176.34
+988,Vaccination 988,1662.19
+989,Vision Test 989,1763.58
+990,Ultrasound 990,566.62
+991,ECG 991,786.60
+992,EMG 992,260.74
+993,Blood Test 993,1849.64
+994,MRI Scan 994,1439.01
+995,Skin Allergy Test 995,2240.20
+996,Colonoscopy 996,2101.35
+997,MRI Scan 997,906.52
+998,Blood Test 998,1602.09
+999,Urine Analysis 999,1400.57
+1000,Colonoscopy 1000,1288.33
